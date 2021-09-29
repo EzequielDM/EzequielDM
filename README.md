@@ -1,7 +1,25 @@
-- 👋 Hi, I’m Ezequiel (more commonly called Zeki)
-- 👀 I’m interested in anything related to coding
-- 🌱 I’m currently learning Node.JS, Express.JS, Mongoose and REST API Development
-- 💞️ I’m looking to *maybe* collaborate on a project to which I have enough usefulness considering my knowledge
-- 📫 You can contact me via Discord mainly Zeki#8086
+# About me
 
-Yes, I know this is the default readme.md basically but i'm too lazy to change it now, it's fricking half past 3 am rn i really gtg sleep
+My name is Ezequiel, I'm a Brazilian 18yo developer situated in São Paulo.
+I've been coding since I'm 12, which is when I started developing
+Minecraft plugins in JAVA using Bukkit API.
+Later on I started learning web development and started messing around with HTML, CSS, PHP AND JS.
+I tried many things and many different languages, I have some background in Reverse Engineering too.
+
+Now I finally found my love, the MERN stack.
+
+# Skills
+
+- Fullstack MERN
+- Bug Hunting
+- Knowledge in C++/C#/ASP.NET Core/Python/JAVA
+
+# Projects
+
+⚡ For all my public projects, check my repos.
+
+# Contact me
+
+✉️: iziquizel@gmail.com
+✉️: business@edemario.com (may be off, I gotta pay the domain)
+📞 (Discord): Zeki#8086

@@ -1,4 +1,4 @@
-# About me
+# About me 🙃
 
 My name is Ezequiel, I'm a Brazilian 18yo developer situated in São Paulo.
 I've been coding since I'm 12, which is when I started developing
@@ -8,11 +8,11 @@ I tried many things and many different languages, I have some background in Reve
 
 Now I finally found my love, the MERN stack.
 
-# Skills
+# Skills 💪
 
-- Fullstack MERN
-- Bug Hunting
-- Knowledge in C++/C#/ASP.NET Core/Python/JAVA
+- Fullstack MERN 🌐
+- Bug Hunting 🐞
+- Knowledge in C++/C#/ASP.NET Core/Python/JAVA 📚
 
 # Projects
 

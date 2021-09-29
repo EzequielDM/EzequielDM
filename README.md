@@ -20,6 +20,6 @@ Now I finally found my love, the MERN stack.
 
 # Contact me
 
-✉️: iziquizel@gmail.com
-✉️: business@edemario.com (may be off, I gotta pay the domain)
-📞 (Discord): Zeki#8086
+- ✉️: iziquizel@gmail.com
+- ✉️: business@edemario.com (may be off, I gotta pay the domain)
+- 📞 (Discord): Zeki#8086

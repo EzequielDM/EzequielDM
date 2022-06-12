@@ -1,6 +1,6 @@
 # About me 🙃
 
-My name is Ezequiel, I'm a Brazilian 20yo developer situated in São Paulo.
+My name is Ezequiel, I'm a 20yo developer.
 I've been coding since I'm 12, which is when I started developing
 Minecraft plugins in JAVA using Bukkit API.
 Later on I started learning web development and started messing around with HTML, CSS, PHP AND JS.

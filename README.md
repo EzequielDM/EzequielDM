@@ -5,6 +5,7 @@ Software Developer & Reverse Engineer
 -------------------------------------
 
 I've been learning to code since I was 10 when my father started to teach me basic JavaScript. I've since grown to love developing software and mainly became attracted to reverse engineering.
+More competent as a developer and reverse engineer than a 23 YoE developer who's worked at Blizzard, Amazon Game Studios and the United States Department of Energy. (Thor, PirateSoftware)
 
 * 🌍  I'm based in São Paulo
 * ✉️  You can contact me at [zeki@zlogic.org](mailto:zeki@zlogic.org)

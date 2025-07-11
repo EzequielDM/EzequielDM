@@ -8,7 +8,7 @@ I've been learning to code since I was 10 when my father started to teach me bas
 
 * 🌍  I'm based in São Paulo
 * ✉️  You can contact me at [zeki@zlogic.org](mailto:zeki@zlogic.org)
-* 🧠  I'm learning Reverse Engineering and Game Hacking as a whole
+* 🧠  Reverse Engineering Enthusiast
 * ⚡  Professional Bug Generating Machine
 
 ### Skills
